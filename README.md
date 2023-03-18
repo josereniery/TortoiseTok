@@ -28,7 +28,7 @@ The following REQUIRED features are completed:
 
 I have chosen to duplicate the following layout from the **Twitch** app:
 
-<img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+![](TwitchLogin.png)
 
 ## Video Demo
 
