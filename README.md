@@ -34,7 +34,7 @@ I have chosen to duplicate the following layout from the **Twitch** app:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+![](tortoisetok.gif)
 
 GIF created with **your chosen GIF tool**
 
